@@ -1,0 +1,5 @@
+#Lambda Function Project Metadata
+#Sun Nov 13 21:49:52 CST 2016
+lastDeploymentFunctionName=S3Event
+lastDeploymentBucketName=awsconsole-lambda-function-bucket-ap-northeast-1
+lastDeploymentEndpoint=https\://lambda.ap-northeast-1.amazonaws.com/
